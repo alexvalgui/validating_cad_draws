@@ -20,7 +20,7 @@ Marcos V. Conde<sup>3</sup>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ACCV-2026-blue?style=flat-square" alt="ACCV 2026">
+  <img src="https://img.shields.io/badge/ACCV-2026-blue?style=flat-square" alt="ACCV 2026 (CV4DC)">
   <img src="https://img.shields.io/badge/Qwen3--VL-2B%20%7C%208B-6f42c1?style=flat-square" alt="Qwen3-VL">
   <img src="https://img.shields.io/badge/Gemma--3-4B-4285F4?style=flat-square" alt="Gemma-3">
   <img src="https://img.shields.io/badge/LoRA-single%20GPU-d73a49?style=flat-square" alt="LoRA">
