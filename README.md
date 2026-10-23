@@ -207,7 +207,3 @@ If you find this work useful, please cite:
 ## 🙏 Acknowledgements
 
 Built on [Omni-CAD / CAD-MLLM](https://arxiv.org/abs/2411.04954), [Qwen3-VL](https://arxiv.org/abs/2511.21631), [Gemma 3](https://arxiv.org/abs/2503.19786), [LoRA](https://arxiv.org/abs/2106.09685), OpenCascade, and Blender. Prosthesis meshes come from GrabCAD and the [NIH 3D Print Exchange](https://3dprint.nih.gov/).
-
-
-## Citation
-
