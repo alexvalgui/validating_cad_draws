@@ -1,5 +1,5 @@
 <h1 align="center">
-Adapt the Eyes, Not Just the Words: Teaching Small VLMs to Validate Technical Drawings Against CAD Models
+Teaching Small VLMs to Validate Technical Drawings Against CAD Models
 </h1>
 
 <div align="center">
