@@ -199,7 +199,7 @@ If you find this work useful, please cite:
 @inproceedings{valverde2026adapt,
   title     = {Adapt the Eyes, Not Just the Words: Teaching Small VLMs to Validate Technical Drawings Against CAD Models},
   author    = {Valverde, Alexander and Xie-Li, Danny and Wang, Zhichao and Conde, Marcos V.},
-  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV) Workshops},
+  booktitle = {Workshop on Computer Vision for Developing Countries (CV4DC) at ACCV 2026 (Proceedings Track)},
   year      = {2026}
 }
 ```
