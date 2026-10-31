@@ -16,25 +16,21 @@ Marcos V. Conde<sup>3</sup>
   <br>
   <sup>2</sup>Instituto Tecnológico de Costa Rica, San José, Costa Rica
   <br>
-  <sup>3</sup>Julius-Maximilians-Universität Würzburg, Würzburg, Germany
+  <sup>3</sup>University of Würzburg, Würzburg, Germany
 </p>
 
 <p align="center">
-  <a href="https://alexvalgui.github.io/adapt_eyes_no_words/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square" alt="Paper (PDF)"></a>
+  <a href="https://alexvalgui.github.io/validating_cad_draws/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square" alt="Paper (PDF)"></a>
+  <a href="https://huggingface.co/alex-novineer/validating_cad_draws"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffcc00?style=flat-square" alt="Hugging Face"></a>
   <img src="https://img.shields.io/badge/ACCV-2026-blue?style=flat-square" alt="ACCV 2026">
   <img src="https://img.shields.io/badge/Qwen3--VL-2B%20%7C%208B-6f42c1?style=flat-square" alt="Qwen3-VL">
   <img src="https://img.shields.io/badge/Gemma--3-4B-4285F4?style=flat-square" alt="Gemma-3">
 </p>
 
-<p align="center">
-  <!-- Add links when available -->
-  <!-- <a href="YOUR_DATASET_URL">Dataset</a> | <a href="YOUR_ARXIV_URL">arXiv</a> | <a href="YOUR_PROJECT_PAGE_URL">Project Page</a> -->
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://github.com/alexvalgui/adapt_eyes_no_words/blob/main/figures/teaser.png"
+  <img src="figures/teaser.png"
        alt="A 3D model is rendered as a hidden-line drawing and a shaded image, and a small open-weight VLM is asked whether they show the same part. The answer is read from the log-probabilities of Yes and No."
        style="width: 100%; height: auto; display: block; margin: 0 auto;">
 </p>
