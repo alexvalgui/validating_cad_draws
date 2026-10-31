@@ -20,7 +20,7 @@ Marcos V. Conde<sup>3</sup>
 </p>
 
 <p align="center">
-  <a href="paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square" alt="Paper (PDF)"></a>
+  <a href="ACCVW_13.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square" alt="Paper (PDF)"></a>
   <img src="https://img.shields.io/badge/ACCV-2026-blue?style=flat-square" alt="ACCV 2026">
   <img src="https://img.shields.io/badge/Qwen3--VL-2B%20%7C%208B-6f42c1?style=flat-square" alt="Qwen3-VL">
   <img src="https://img.shields.io/badge/Gemma--3-4B-4285F4?style=flat-square" alt="Gemma-3">
