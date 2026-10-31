@@ -1,5 +1,5 @@
 <h1 align="center">
-Teaching Small VLMs to Validate Technical Drawings Against CAD Models
+Teaching Vision-Language Models to validate Technical Drawings and CAD Models
 </h1>
 
 <div align="center">
