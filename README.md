@@ -172,10 +172,10 @@ The underlying Omni-CAD data is released by its authors under the MIT license. Q
 ## Citation
 
 ```bibtex
-@inproceedings{valverde2026teaching,
-  title     = {Teaching Small VLMs to Validate Technical Drawings Against CAD Models},
+@inproceedings{valverde2026adapt,
+  title     = {Adapt the Eyes, Not Just the Words: Teaching Small {VLMs} to Validate Technical Drawings Against {CAD} Models},
   author    = {Valverde, Alexander and Xie-Li, Danny and Wang, Zhichao and Conde, Marcos V.},
-  booktitle = {Workshop on Computer Vision for Developing Countries (CV4DC) at ACCV 2026 (Proceedings Track)},
+  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV) Workshops},
   year      = {2026}
 }
 ```
