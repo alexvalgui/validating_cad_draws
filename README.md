@@ -22,7 +22,7 @@ Marcos V. Conde<sup>3</sup>
 <p align="center">
   <a href="https://alexvalgui.github.io/validating_cad_draws/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square" alt="Paper (PDF)"></a>
   <a href="https://huggingface.co/alex-novineer/validating_cad_draws"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffcc00?style=flat-square" alt="Hugging Face"></a>
-  <img src="https://img.shields.io/badge/ACCV-2026-blue?style=flat-square" alt="ACCV 2026">
+  <img src="https://img.shields.io/badge/ACCV%202026-CV4DC-blue?style=flat-square" alt="ACCV 2026 (CV4DC workshop)">
   <img src="https://img.shields.io/badge/Qwen3--VL-2B%20%7C%208B-6f42c1?style=flat-square" alt="Qwen3-VL">
   <img src="https://img.shields.io/badge/Gemma--3-4B-4285F4?style=flat-square" alt="Gemma-3">
 </p>
